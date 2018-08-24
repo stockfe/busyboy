@@ -1,6 +1,6 @@
 busyboy
 ======
-busyboy hate promotion pages 
+busyboy hates promotion pages 
 
 概念
 ---
